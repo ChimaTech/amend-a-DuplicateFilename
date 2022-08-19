@@ -59,13 +59,6 @@ Duplication_Amendment() {
                     
                 fi
             
-            # functionReport to Report the behaviour of the function
-            #echo "newName_stage2: ${initial_testName} 
-            #     | < testName @subFunc = ${testName} >
-            #        itemFullName_inFocus: ${itemFullName_inFocus} | itemName_inFocus: ${itemName_inFocus}
-            #        [ newName_stage3 == ${newTestName} ]
-            #        " >> "${functionReport}"
-                    
             done
             
         }
